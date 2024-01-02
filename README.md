@@ -1,4 +1,6 @@
-# Project Name
+# Benox-Carding
+
+## [Preview](https://www.youtube.com/watch?v=RoJsSCWcDSM)
 
 ## Installation
 
@@ -23,3 +25,7 @@
         consume = 0,
     }
 ]
+```
+3. Add icons to ox_inventory\web\images.
+
+## [Preview](https://www.youtube.com/watch?v=RoJsSCWcDSM)
