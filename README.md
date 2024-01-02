@@ -27,5 +27,3 @@
 ]
 ```
 3. Add icons to ox_inventory\web\images.
-
-## [Preview](https://www.youtube.com/watch?v=RoJsSCWcDSM)
